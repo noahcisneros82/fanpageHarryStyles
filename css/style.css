@@ -1,0 +1,25 @@
+.titulo{
+    color:#cf4520;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+}
+.subtitulo{
+    color:#cf4520;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+}
+.perro{
+     color: #165998;
+     padding: 50px;
+     text-align: center;
+     font-family: 'Josefin Slab', serif;
+    
+}
+.wimg{
+    height: 40vh;
+}
+ 
+ 
+ 
